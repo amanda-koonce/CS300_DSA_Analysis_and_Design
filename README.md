@@ -2,6 +2,7 @@
 Portfolio item for CS300
 
 CS 300 Portfolio Reflection
+
 Throughout this course, I worked on projects involving data structures and algorithms to develop a program that could organize and retrieve information about college courses. The main goal was to create a system that could read course information from a file, display the courses in order, and allow users to look up individual courses and their prerequisites.
 
 My approach involved comparing different data structures, including vectors, hash tables, and binary search trees, to determine which would work best for the program. This helped me understand why choosing the right data structure is important, since different approaches can affect how efficiently a program stores, searches for, and organizes information. I ultimately chose a binary search tree because it allowed the courses to be displayed in alphanumeric order without needing a separate sorting process.
